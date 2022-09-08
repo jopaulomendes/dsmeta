@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="/home/bruna/Documentos/visual-studio-workspace/dev-superior/dsmeta/backend"/>
 			<item value="/home/bruna/Documentos/VSCode-Workspace/dev-superior/dsmeta"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -27,4 +27,6 @@ public class SaleService {
 		
 		return repositorie.findSales(min, max, pageable);
 	}
+	
+//	01:08h
 }
